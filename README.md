@@ -11,7 +11,7 @@ N/A
 ## Usage
 
 Copy and paste link into web browser of coice.
-link: 
+link: https://jacobhargraves.github.io/module-1-challenge/
 
 Screenshot:
 ![](./Assets%20copy/website-screenshot.html.png)
