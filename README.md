@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Copy and paste link into web browser of coice.
+Copy and paste link into web browser of choice.
 link: https://jacobhargraves.github.io/module-1-challenge/
 
 Screenshot:
